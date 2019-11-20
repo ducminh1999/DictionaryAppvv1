@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_home">English - Vietnamese</string>
+    <string name="menu_gallery">English - English</string>
+    <string name="menu_slideshow">Vietnamese - English</string>
+    <string name="menu_tools">Favorites</string>
+    <string name="menu_words">Your Words</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Help</string>
+</resources>
